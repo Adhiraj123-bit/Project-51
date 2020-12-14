@@ -1,0 +1,28 @@
+.header{
+    background-color: aquamarine;
+    display:flex;
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.footer{
+    display:flex;
+    justify-content: space-around;
+}
+
+.animal {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
